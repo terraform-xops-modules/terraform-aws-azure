@@ -1,0 +1,5 @@
+aws_profile = "your aws named profile"
+aws_region = "us-east-1"
+
+azure_subscription = "your azure subscription id"
+azure_location = "East US"
